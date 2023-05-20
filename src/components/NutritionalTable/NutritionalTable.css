@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid black;
+  }
+
+  .meal{
+    width: 26%;
+  }
+
+  .description{
+    width: 26%;
+  }
+
+  .nutritional--category{
+    width: 12%;
+  }
